@@ -237,7 +237,7 @@ function addTransaction() {
               <div class="balance-wrapper">
                 
                 <h3 class="transfer-using user">@${input.value}</h3>
-                <p class="transfer-using">Instant transfer using Balance</p>
+                <p class="transfer-using">التحويل الفوري باستخدام الرصيد</p>
               </div>
             </div>
             <div class="transfer-count">
